@@ -4,3 +4,8 @@
 .idea/misc.xml
 .idea/stepik-homework.iml
 .idea/.gitignore
+__pycache__/sumple.cpython-37-pytest-5.4.1.pyc
+__pycache__/test_wait.cpython-37-pytest-5.4.1.pyc
+__pycache__/test_window.cpython-37-pytest-5.4.1.pyc
+__pycache__/testunit.cpython-37-pytest-5.4.1.pyc
+__pycache__/xf_test.cpython-37-pytest-5.4.1.pyc
