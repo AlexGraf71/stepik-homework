@@ -25,7 +25,7 @@ requests==2.23.0
 selene==2.0.0a22
 selenium==3.141.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 webdriver-manager==2.3.0
 zipp==3.1.0
